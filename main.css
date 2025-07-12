@@ -1,0 +1,17 @@
+.hero{
+    text-align: center;
+    margin: 20px;
+    justify-content: center;
+}
+#buttons {
+    color: #ffffff;
+    background-color: #34CAEF;
+    border: none;
+}
+#flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
