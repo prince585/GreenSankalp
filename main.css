@@ -4,7 +4,7 @@
     justify-content: center;
 }
 #buttons {
-    color: #ffffff;
+    color: #6f4f4f;
     background-color: #34CAEF;
     border: none;
 }
@@ -13,5 +13,13 @@
     justify-content: space-around;
     align-items: center;
 }
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000000;}
+body{
+    background-color: #FFECA1;
+    font-family: 'Libertinus Mono', monospace;
 
-
+}
